@@ -443,7 +443,7 @@ var map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/everybees/ck8a1cbp90mu61io562pj8dnd',
 center: [8.993, 9.807],
-zoom: 4.80,
+zoom: 4.5,
 maxZoom: 8,
 // minZoom: 4.23,
 bearing: start_viz.bearing,
@@ -470,7 +470,7 @@ map.on('load', function() {
         type: 'circle',
         source: {
           type: 'geojson',
-          data: 'https://raw.githubusercontent.com/everybees/covid-19-nigeria-updates/master/covid-19_nigeria_cases.geojson' // replace this with the url of your own geojson
+          data: 'https://raw.githubusercontent.com/everybees/covid-19_nigeria/master/covid-19_nigeria_cases.geojson' // replace this with the url of your own geojson
         },
         'layout': {
               'visibility': 'visible',
@@ -521,7 +521,7 @@ map.on('load', function() {
         'type': 'circle',
         'source': {
           type: 'geojson',
-          data: 'https://raw.githubusercontent.com/everybees/covid-19-nigeria-updates/master/testing_labs.geojson'
+          data: 'https://raw.githubusercontent.com/everybees/covid-19_nigeria/master/testing_labs.geojson'
         },
         'layout': {
               'visibility': 'none'
@@ -538,7 +538,7 @@ map.on('load', function() {
           'type': 'fill',
           'source': {
             type: 'geojson',
-            data: 'https://raw.githubusercontent.com/everybees/covid-19-nigeria-updates/master/Nigeria%20Administartive%20Boundaries.geojson',
+            data: 'https://raw.githubusercontent.com/everybees/covid-19_nigeria/master/Nigeria%20Administartive%20Boundaries.geojson',
           },
           // 'source-layer': 'packed-buildings',
           'layout': {
