@@ -1377,6 +1377,74 @@
     "daily total":null,
     "description":"<strong>KATSINA</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>1</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>1</strong></p><p>Total Deaths: <strong>1</strong></p></p><p>Active: <strong>0</strong></p>"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.391531071,6.443261653 ]
+    },
+    "properties": {
+    "no":75,
+    "state":"Lagos",
+    "cases":15,
+    "time":1586304000,
+    "date":"4/8/2020",
+    "days":42,
+    "daily total":22,
+    "description":"<strong>LAGOS</strong><p>New Case: <strong>15</strong><p>Total Cases: <strong>145</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>31</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>2</strong></p></p><p>Active: <strong>110</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.533328002,9.083333149 ]
+    },
+    "properties": {
+    "no":76,
+    "state":"FCT",
+    "cases":4,
+    "time":1586304000,
+    "date":"4/8/2020",
+    "days":42,
+    "daily total":null,
+    "description":"<strong>FCT</strong><p>New Cases: <strong>4</strong><p>Total Cases: <strong>54</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>2</strong></p></p><p>Active: <strong>52</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.620008096,6.340477314 ]
+    },
+    "properties": {
+    "no":71,
+    "state":"Edo",
+    "cases":1,
+    "time":1586304000,
+    "date":"4/8/2020",
+    "days":42,
+    "daily total":null,
+    "description":"<strong>EDO</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>12</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>1</strong></p><p>Total Deaths: <strong>1</strong></p></p><p>Active: <strong>11</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.19001339,11.68040977 ]
+    },
+    "properties": {
+    "no":53,
+    "state":"Bauchi",
+    "cases":2,
+    "time":1586304000,
+    "date":"4/8/2020",
+    "days":42,
+    "daily total":null,
+    "description":"<strong>BAUCHI</strong><p>New Case: <strong>2</strong><p>Total Cases: <strong>8</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>8</strong></p>"
+    }
   }
 ]
 }
