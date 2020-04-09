@@ -1445,6 +1445,40 @@
     "daily total":null,
     "description":"<strong>BAUCHI</strong><p>New Case: <strong>2</strong><p>Total Cases: <strong>8</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>8</strong></p>"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.680004434,5.890427265 ]
+    },
+    "properties": {
+    "no":83,
+    "state":"Delta",
+    "cases":1,
+    "time":1586390400,
+    "date":"4/9/2020",
+    "days":43,
+    "daily total":14,
+    "description":"<strong>DELTA</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>2</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>2</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.391531071,6.443261653 ]
+    },
+    "properties": {
+    "no":84,
+    "state":"Lagos",
+    "cases":13,
+    "time":1586390400,
+    "date":"4/9/2020",
+    "days":43,
+    "daily total":null,
+    "description":"<strong>LAGOS</strong><p>New Case: <strong>13</strong><p>Total Cases: <strong>158</strong></p><p>New Recoveries: <strong>7</strong></p><p>Total Recoveries: <strong>38</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>3</strong></p></p><p>Active: <strong>115</strong></p>"
+    }
   }
 ]
 }
