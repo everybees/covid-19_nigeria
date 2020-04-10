@@ -1480,7 +1480,7 @@
     "description":"<strong>LAGOS</strong><p>New Case: <strong>13</strong><p>Total Cases: <strong>158</strong></p><p>New Recoveries: <strong>7</strong></p><p>Total Recoveries: <strong>38</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>3</strong></p></p><p>Active: <strong>115</strong></p>"
     }
   },
-  
+  {
     "type": "Feature",
     "geometry": {
        "type": "Point",
