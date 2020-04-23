@@ -2567,6 +2567,142 @@
     "daily total":null,
     "description":"<strong>BAUCHI</strong><p>New Case: <strong>0</strong><p>Total Cases: <strong>7</strong></p><p>New Recoveries: <strong>5</strong></p><p>Total Recoveries: <strong>5</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>2</strong></p>"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.533328002,9.083333149 ]
+    },
+    "properties": {
+    "no":124,
+    "state":"FCT",
+    "cases":29,
+    "time":1587427200,
+    "date":"4/21/2020",
+    "days":55,
+    "daily total":null,
+    "description":"<strong>FCT</strong><p>New Cases: <strong>29</strong><p>Total Cases: <strong>118<strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>35</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>3</strong></p></p><p>Active: <strong>51</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5200378,11.99997683 ]
+    },
+    "properties": {
+    "no":125,
+    "state":"Kano",
+    "cases":14,
+    "time":1587427200,
+    "date":"4/21/2020",
+    "days":55,
+    "daily total":null,
+    "description":"<strong>KANO</strong><p>New Cases: <strong>14</strong><p>Total Cases: <strong>51</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>1</strong></p></p><p>Active: <strong>36</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.18999467,10.62042279 ]
+    },
+    "properties": {
+    "no":126,
+    "state":"Borno",
+    "cases":6,
+    "time":1587427200,
+    "date":"4/21/2020",
+    "days":55,
+    "daily total":null,
+    "description":"<strong>BORNO</strong><p>New Case: <strong>6</strong><p>Total Cases: <strong>9</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>1</strong></p></p><p>Active: <strong>8</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.320007689,11.5203937 ]
+    },
+    "properties": {
+    "no":127,
+    "state":"Katsina",
+    "cases":4,
+    "time":1587427200,
+    "date":"4/21/2020",
+    "days":55,
+    "daily total":null,
+    "description":"<strong>KATSINA</strong><p>New Cases: <strong>4</strong><p>Total Cases: <strong>16</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>1</strong></p></p><p>Active: <strong>15</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.350017455,7.160427265 ]
+    },
+    "properties": {
+    "no":128,
+    "state":"Ogun",
+    "cases":3,
+    "time":1587427200,
+    "date":"4/21/2020",
+    "days":55,
+    "daily total":null,
+    "description":"<strong>OGUN</strong><p>New Case: <strong>8</strong><p>Total Cases: <strong>20</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>5</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>15</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.19001339,11.68040977 ]
+    },
+    "properties": {
+    "no":129,
+    "state":"Bauchi",
+    "cases":1,
+    "time":1587427200,
+    "date":"4/21/2020",
+    "days":55,
+    "daily total":null,
+    "description":"<strong>BAUCHI</strong><p>New Case: <strong>1</strong><p>Total Cases: <strong>8</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>5</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>3</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.010000772,4.810002257 ]
+    },
+    "properties": {
+    "no":130,
+    "state":"Rivers",
+    "cases":1,
+    "time":1587427200,
+    "date":"4/21/2020",
+    "days":55,
+    "daily total":null,
+    "description":"<strong>RIVERS</strong><p>New Case: <strong>1</strong><p>Total Cases: <strong>3</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>2</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>1</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.620008096,6.340477314 ]
+    },
+    "properties": {
+    "no":131,
+    "state":"Edo",
+    "cases":null,
+    "time":1587427200,
+    "date":"4/21/2020",
+    "days":55,
+    "daily total":null,
+    "description":"<strong>EDO</strong><p>New Cases: <strong>0</strong><p>Total Cases: <strong>15</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>7</strong></p><p>New Deaths: <strong>1</strong></p><p>Total Deaths: <strong>2</strong></p></p><p>Active: <strong>6</strong></p>"
+    }
   }
 ]
 }
