@@ -2718,7 +2718,7 @@
     "date":"4/22/2020",
     "days":56,
     "daily total":91,
-    "description":"<strong>LAGOS</strong><p>New Case: <strong>74</strong><p>Total Cases: <strong></strong>504</p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>107/strong></p><p>New Deaths: <strong>2</strong></p><p>Total Deaths: <strong>18</strong></p></p><p>Active: <strong>377</strong></p>"
+    "description":"<strong>LAGOS</strong><p>New Case: <strong>74</strong><p>Total Cases: <strong>504</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>107</strong></p><p>New Deaths: <strong>2</strong></p><p>Total Deaths: <strong>18</strong></p></p><p>Active: <strong>377</strong></p>"
     }
   },
   {
@@ -2837,7 +2837,7 @@
     "date":"4/22/2020",
     "days":56,
     "daily total":null,
-    "description":"<strong>FCT</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>119<strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>35</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>3</strong></p></p><p>Active: <strong>52</strong></p>"
+    "description":"<strong>FCT</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>119</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>35</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>3</strong></p><p>Active: <strong>52</strong></p>"
     }
   },
   {
@@ -2854,7 +2854,7 @@
     "date":"4/22/2020",
     "days":56,
     "daily total":null,
-    "description":"<strong>ADAMAWA</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>1<strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>1</strong></p>"
+    "description":"<strong>ADAMAWA</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>1<strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p><p>Active: <strong>1</strong></p>"
     }
   }
 ]
