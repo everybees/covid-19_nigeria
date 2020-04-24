@@ -2854,7 +2854,143 @@
     "date":"4/22/2020",
     "days":56,
     "daily total":null,
-    "description":"<strong>ADAMAWA</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>1</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p><p>Active: <strong>1</strong></p>"
+    "description":"<strong>ADAMAWA</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>1<strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p><p>Active: <strong>1</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.391531071,6.443261653 ]
+    },
+    "properties": {
+    "no":141,
+    "state":"Lagos",
+    "cases":78,
+    "time":1587427200,
+    "date":"4/23/2020",
+    "days":57,
+    "daily total":108,
+    "description":"<strong>LAGOS</strong><p>New Case: <strong>78</strong><p>Total Cases: <strong>582</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>107</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>18</strong></p><p>Active: <strong>455</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.533328002,9.083333149 ]
+    },
+    "properties": {
+    "no":142,
+    "state":"FCT",
+    "cases":14,
+    "time":1587427200,
+    "date":"4/23/2020",
+    "days":57,
+    "daily total":null,
+    "description":"<strong>FCT</strong><p>New Cases: <strong>14</strong><p>Total Cases: <strong>133</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>35</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>3</strong></p><p>Active: <strong>64</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.350017455,7.160427265 ]
+    },
+    "properties": {
+    "no":143,
+    "state":"Ogun",
+    "cases":5,
+    "time":1587427200,
+    "date":"4/23/2020",
+    "days":57,
+    "daily total":null,
+    "description":"<strong>OGUN</strong><p>New Case: <strong>5</strong><p>Total Cases: <strong>29</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>5</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>23</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.16995357,10.29044293 ]
+    },
+    "properties": {
+    "no":144,
+    "state":"Gombe",
+    "cases":4,
+    "time":1587427200,
+    "date":"4/23/2020",
+    "days":57,
+    "daily total":null,
+    "description":"<strong>GOMBE</strong><p>New Case: <strong>4</strong><p>Total Cases: <strong></strong>9</p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>9</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.18999467,10.62042279 ]
+    },
+    "properties": {
+    "no":145,
+    "state":"Borno",
+    "cases":3,
+    "time":1587427200,
+    "date":"4/23/2020",
+    "days":57,
+    "daily total":null,
+    "description":"<strong>BORNO</strong><p>New Case: <strong>3</strong><p>Total Cases: <strong>12</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>1</strong></p></p><p>Active: <strong>11</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.849998524,5.007996056 ]
+    },
+    "properties": {
+    "no":146,
+    "state":"Akwa Ibom ",
+    "cases":2,
+    "time":1587427200,
+    "date":"4/23/2020",
+    "days":57,
+    "daily total":null,
+    "description":"<strong>AKWA IBOM</strong><p>New Cases: <strong>2</strong><p>Total Cases: <strong>11</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>3</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>1</strong></p></p><p>Active: <strong>7</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.549995889,8.490010192 ]
+    },
+    "properties": {
+    "no":147,
+    "state":"Kwara",
+    "cases":1,
+    "time":1587427200,
+    "date":"4/23/2020",
+    "days":57,
+    "daily total":null,
+    "description":"<strong>KWARA</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>11</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>2</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>9</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.890041055,9.929973978 ]
+    },
+    "properties": {
+    "no":148,
+    "state":"Plateau",
+    "cases":1,
+    "time":1587427200,
+    "date":"4/23/2020",
+    "days":57,
+    "daily total":null,
+    "description":"<strong>PLATEAU</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>1</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>1</strong></p>"
     }
   }
 ]
