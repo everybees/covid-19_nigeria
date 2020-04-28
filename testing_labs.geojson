@@ -1,19 +1,213 @@
 {
-"type": "FeatureCollection",
-"name": "testing_labs",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "no": "1", "latitude": 9.083333149, "longitude": 7.533328002, "state": "FCT", "geometry": "point", "status": "completed", "description": "<strong>FCT<\/strong><br><strong>Address: <\/strong><span>NCDC National Reference Laboratory<\/span><br><strong>Status: <\/strong><span>COMPLETED<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 7.533328002, 9.083333149 ] } },
-{ "type": "Feature", "properties": { "no": "2", "latitude": 6.340477314, "longitude": 5.620008096, "state": "EDO", "geometry": "point", "status": "completed", "description": "<strong>EDO<\/strong><br><strong>Address: <\/strong><span>Irrua Specialist Teaching Hospital<\/span><br><strong>Status: <\/strong><span>COMPLETED<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 5.620008096, 6.340477314 ] } },
-{ "type": "Feature", "properties": { "no": "3", "latitude": 6.443261653, "longitude": 3.391531071, "state": "LAGOS", "geometry": "point", "status": "completed", "description": "<strong>LAGOS<\/strong><br><br><strong>Address: <\/strong><span>Lagos University Teaching Hospital<\/span><br><strong>Status: <\/strong><span>COMPLETED<\/span><br><strong>Address: <\/strong><span>Lagos State Biosafety Level-3 Laboratory<\/span><br><strong>Status: <\/strong><span>COMPLETED<\/span><br><strong>Address: <\/strong><span>Nigeria Institute for Medical Research<\/span><br><strong>Status: <\/strong><span>COMPLETED<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 3.391531071, 6.443261653 ] } },
-{ "type": "Feature", "properties": { "no": "4", "latitude": 7.37756, "longitude": 3.90591, "state": "IBADAN", "geometry": "point", "status": "completed", "description": "<strong>OYO<\/strong><strong>Address: <\/strong><span>University College Hospital<\/span><strong>Status: <\/strong><span>COMPLETED<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 3.90591, 7.37756 ] } },
-{ "type": "Feature", "properties": { "no": "5", "latitude": 7.629959329, "longitude": 4.179992634, "state": "OSUN", "geometry": "point", "status": "completed", "description": "<strong>OSUN<\/strong><strong>Address: <\/strong><span>African Centre of Excellence For Genomics of Infectious Diseases<\/span><strong>Status: <\/strong><span>COMPLETED<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 4.179992634, 7.629959329 ] } },
-{ "type": "Feature", "properties": { "no": "6", "latitude": 6.178, "longitude": 7.959, "state": "EBONYI", "geometry": "point", "status": "completed", "description": "<strong>EBONYI<\/strong><br><strong>Address: <\/strong><span>Alex Ekwueme Federal Teaching Hospital Abakaliki<\/span><br><strong>Status: <\/strong><span>COMPLETED<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 7.959, 6.178 ] } },
-{ "type": "Feature", "properties": { "no": "7", "latitude": 11.99997683, "longitude": 8.5200378, "state": "KANO", "geometry": "point", "status": "in progress", "description": "<strong>KANO<\/strong><br><strong>Address: <\/strong><span>Influenza Laboratory, Aminu Kano Teaching Hospital<\/span><br><strong>Status: <\/strong><span>COMPLETED<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 8.5200378, 11.99997683 ] } },
-{ "type": "Feature", "properties": { "no": "8", "latitude": 11.0799813, "longitude": 7.710009724, "state": "KADUNA", "geometry": "point", "status": "in progress", "description": "<strong>KADUNA<\/strong><br><strong>Address: <\/strong><span>N\/A<\/span><br><strong>Status: <\/strong><span>IN PROGRESS<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 7.710009724, 11.0799813 ] } },
-{ "type": "Feature", "properties": { "no": "9", "latitude": 9.92849, "longitude": 8.89212, "state": "JOS", "geometry": "point", "status": "in progress", "description": "<strong>JOS<\/strong><br><strong>Address: <\/strong><span>National Veterinary Research Institute<\/span><br><strong>Status: <\/strong><span>COMPLETED<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 8.89212, 9.92849 ] } },
-{ "type": "Feature", "properties": { "no": "10", "latitude": 4.7848, "longitude": 7.0055, "state": "PORT HARCOURT", "geometry": "point", "status": "in progress", "description": "<strong>PORT HARCOURT<\/strong><br><strong>Address: <\/strong><span>N\/A<\/span><br><strong>Status: <\/strong><span>IN PROGRESS<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 7.0055, 4.7848 ] } },
-{ "type": "Feature", "properties": { "no": "11", "latitude": 13.06002, "longitude": 5.24003, "state": "SOKOTO", "geometry": "point", "status": "in progress", "description": "<strong>SOKOTO<\/strong><br><strong>Address: <\/strong><span>N\/A<\/span><br><strong>Status: <\/strong><span>IN PROGRESS<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 5.24003, 13.06002 ] } },
-{ "type": "Feature", "properties": { "no": "12", "latitude": 11.84692, "longitude": 13.15712, "state": "MAIDUGURI", "geometry": "point", "status": "in progress", "description": "<strong>MAIDUGURI<\/strong><br><strong>Address: <\/strong><span>N\/A<\/span><br><strong>Status: <\/strong><span>IN PROGRESS<\/span>" }, "geometry": { "type": "Point", "coordinates": [ 13.15712, 11.84692 ] } }
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.533328002,9.083333149 ]
+    },
+    "properties": {
+    "no":1,
+    "state":"FCT",
+    "status":"completed",
+    "address":"NCDC National Reference Laboratory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.620008096,6.340477314 ]
+    },
+    "properties": {
+    "no":2,
+    "state":"EDO",
+    "status":"completed",
+    "address":"Irrua Specialist Teaching Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.391531071,6.443261653 ]
+    },
+    "properties": {
+    "no":3,
+    "state":"LAGOS",
+    "status":"completed",
+    "address":"Lagos University Teaching Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.391531071,6.443261653 ]
+    },
+    "properties": {
+    "no":4,
+    "state":"LAGOS",
+    "status":"completed",
+    "address":"Nigeria Institute for Medical Research"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.391531071,6.443261653 ]
+    },
+    "properties": {
+    "no":5,
+    "state":"LAGOS",
+    "status":"completed",
+    "address":"54 Gene Laboratory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.391531071,6.443261653 ]
+    },
+    "properties": {
+    "no":6,
+    "state":"LAGOS",
+    "status":"completed",
+    "address":"Lagos State Biosafety Level-3 Laboratory "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.90591,7.37756 ]
+    },
+    "properties": {
+    "no":7,
+    "state":"IBADAN",
+    "status":"completed",
+    "address":"Iniversity College Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.179992634,7.629959329 ]
+    },
+    "properties": {
+    "no":8,
+    "state":"OSUN",
+    "status":"completed",
+    "address":"African Centre of Excellence For Genomics of Infectious Diseases"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.959,6.178 ]
+    },
+    "properties": {
+    "no":9,
+    "state":"EBONYI",
+    "status":"completed",
+    "address":"Alex Ekwueme Federal Teaching Hospital Abakaliki"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5200378,11.99997683 ]
+    },
+    "properties": {
+    "no":10,
+    "state":"KANO",
+    "status":"completed",
+    "address":"Influenza Laboratory, Aminu Kano Teaching Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.710009724,11.0799813 ]
+    },
+    "properties": {
+    "no":11,
+    "state":"KADUNA",
+    "status":"completed",
+    "address":"DNA Lab"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.89212,9.92849 ]
+    },
+    "properties": {
+    "no":12,
+    "state":"JOS",
+    "status":"completed",
+    "address":"National Veterinary Research Institute"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0055,4.7848 ]
+    },
+    "properties": {
+    "no":13,
+    "state":"PORT HARCOURT",
+    "status":"in progress",
+    "address":"n/a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.24003,13.06002 ]
+    },
+    "properties": {
+    "no":14,
+    "state":"SOKOTO",
+    "status":"in progress",
+    "address":"n/a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.15712,11.84692 ]
+    },
+    "properties": {
+    "no":15,
+    "state":"MAIDUGURI",
+    "status":"completed",
+    "address":"University of Maiduguri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.350017455,7.160427265 ]
+    },
+    "properties": {
+    "no":16,
+    "state":"OGUN",
+    "status":"completed",
+    "address":"54 Gene Laboratory"
+    }
+  }
 ]
 }
