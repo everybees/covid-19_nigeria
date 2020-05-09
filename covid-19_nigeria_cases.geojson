@@ -6511,6 +6511,414 @@
     "daily total":null,
     "description":"<strong>PLATEAU</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>5</strong></p><p>New Recoveries: <strong>1</strong></p><p>Total Recoveries: <strong>1</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>4</strong></p>"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.391531071,6.443261653 ]
+    },
+    "properties": {
+    "no":356,
+    "state":"Lagos",
+    "cases":176,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":386,
+    "description":"<strong>LAGOS</strong><p>New Case: <strong>176</strong><p>Total Cases: <strong>1667</strong></p><p>New Recoveries: <strong>42</strong></p><p>Total Recoveries: <strong>448</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>33</strong></p><p>Active: <strong>1186/strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5200378,11.99997683 ]
+    },
+    "properties": {
+    "no":357,
+    "state":"Kano",
+    "cases":65,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>KANO</strong><p>New Cases: <strong>65</strong><p>Total Cases: <strong>547</strong></p><p>New Recoveries: <strong>1</strong></p><p>Total Recoveries: <strong>20</strong></p><p>New Deaths: <strong>5</strong></p><p>Total Deaths: <strong>18</strong></p></p><p>Active: <strong>509</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.320007689,11.5203937 ]
+    },
+    "properties": {
+    "no":358,
+    "state":"Katsina",
+    "cases":31,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>KATSINA</strong><p>New Cases: <strong>31</strong><p>Total Cases: <strong>137</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>9</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>8</strong></p></p><p>Active: <strong>120</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.533328002,9.083333149 ]
+    },
+    "properties": {
+    "no":359,
+    "state":"FCT",
+    "cases":20,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>FCT</strong><p>New Cases: <strong>20</strong><p>Total Cases: <strong>336</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>40</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>4</strong></p><p>Active: <strong>292</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.18999467,10.62042279 ]
+    },
+    "properties": {
+    "no":360,
+    "state":"Borno",
+    "cases":17,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>BORNO</strong><p>New Case: <strong>17</strong><p>Total Cases: <strong>146</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>14</strong></p></p><p>Active: <strong>128</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.19001339,11.68040977 ]
+    },
+    "properties": {
+    "no":361,
+    "state":"Bauchi",
+    "cases":15,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>BAUCHI</strong><p>New Case: <strong>15</strong><p>Total Cases: <strong>117</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>6</strong></p><p>New Deaths: <strong>1</strong></p><p>Total Deaths: <strong>1</strong></p></p><p>Active: <strong>110</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5200378,8.490423603 ]
+    },
+    "properties": {
+    "no":362,
+    "state":"Nasarawa",
+    "cases":14,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>NASARAWA</strong><p>New Cases: <strong>14</strong><p>Total Cases: <strong>25</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>1</strong></p><p>Active: <strong>24</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.350017455,7.160427265 ]
+    },
+    "properties": {
+    "no":363,
+    "state":"Ogun",
+    "cases":13,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>OGUN</strong><p>New Case: <strong>13</strong><p>Total Cases: <strong>113</strong></p><p>New Recoveries: <strong>10</strong></p><p>Total Recoveries: <strong>28</strong></p><p>New Deaths: <strong>2</strong></p><p>Total Deaths: <strong>4</strong></p></p><p>Active: <strong>81</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.890041055,9.929973978 ]
+    },
+    "properties": {
+    "no":364,
+    "state":"Plateau",
+    "cases":10,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>PLATEAU</strong><p>New Cases: <strong>10</strong><p>Total Cases: <strong>15</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>1</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>14</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.590002806,7.970016092 ]
+    },
+    "properties": {
+    "no":365,
+    "state":"Oyo",
+    "cases":4,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>OYO</strong><p>New Cases: <strong>4</strong><p>Total Cases: <strong>59</strong></p><p>New Recoveries: <strong>3</strong></p><p>Total Recoveries: <strong>14</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>2</strong></p></p><p>Active: <strong>43</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.240031289,13.06001548 ]
+    },
+    "properties": {
+    "no":366,
+    "state":"Sokoto",
+    "cases":4,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>SOKOTO</strong><p>New Case: <strong>4</strong><p>Total Cases: <strong>93</strong></p><p>New Recoveries: <strong>3</strong></p><p>Total Recoveries: <strong>4</strong></p><p>New Deaths: <strong>1</strong></p><p>Total Deaths: <strong>9</strong></p></p><p>Active: <strong>80</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.010000772,4.810002257 ]
+    },
+    "properties": {
+    "no":367,
+    "state":"Rivers",
+    "cases":4,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>RIVERS</strong><p>New Case: <strong>4</strong><p>Total Cases: <strong>21</strong></p><p>New Recoveries: <strong>2</strong></p><p>Total Recoveries: <strong>4</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>2</strong></p></p><p>Active: <strong>15</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.710009724,11.0799813 ]
+    },
+    "properties": {
+    "no":368,
+    "state":"Kaduna",
+    "cases":3,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>KADUNA</strong><p>New Cases: <strong>3</strong><p>Total Cases: <strong>95</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>14</strong></p><p>New Deaths: <strong>1</strong></p><p>Total Deaths: <strong>2</strong></p></p><p>Active: <strong>79</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.620008096,6.340477314 ]
+    },
+    "properties": {
+    "no":369,
+    "state":"Edo",
+    "cases":2,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>EDO</strong><p>New Cases: <strong>2</strong><p>Total Cases: <strong>67</strong></p><p>New Recoveries: <strong>2</strong></p><p>Total Recoveries: <strong>12</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>4</strong></p></p><p>Active: <strong>51</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.9593,6.178 ]
+    },
+    "properties": {
+    "no":370,
+    "state":"Ebonyi",
+    "cases":2,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>EBONYI</strong><p>New Cases: <strong>2</strong><p>Total Cases: <strong>7</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>0</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>7</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.199982054,7.250395934 ]
+    },
+    "properties": {
+    "no":371,
+    "state":"Ondo",
+    "cases":2,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>ONDO</strong><p>New Cases: <strong>2</strong><p>Total Cases: <strong>15</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>6</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>9</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.383362995,6.867034321 ]
+    },
+    "properties": {
+    "no":372,
+    "state":"Enugu",
+    "cases":1,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>ENUGU</strong><p>New Case: <strong>1</strong><p>Total Cases: <strong>10</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>2</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>8</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.026003588,5.492997053 ]
+    },
+    "properties": {
+    "no":373,
+    "state":"Imo",
+    "cases":1,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>IMO</strong><p>New Case: <strong>1</strong><p>Total Cases: <strong>3</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>1</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>2</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.16995357,10.29044293 ]
+    },
+    "properties": {
+    "no":374,
+    "state":"Gombe",
+    "cases":1,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>GOMBE</strong><p>New Case: <strong>1</strong><p>Total Cases: <strong></strong>110</p><p>New Recoveries: <strong>10</strong></p><p>Total Recoveries: <strong>10</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>100</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.179992634,7.629959329 ]
+    },
+    "properties": {
+    "no":375,
+    "state":"Osun",
+    "cases":1,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>OSUN</strong><p>New Cases: <strong>1</strong><p>Total Cases: <strong>38</strong></p><p>New Recoveries: <strong>0</strong></p><p>Total Recoveries: <strong>30</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>4</strong></p></p><p>Active: <strong>4</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.219980834,7.630372741 ]
+    },
+    "properties": {
+    "no":376,
+    "state":"Ekiti",
+    "cases":null,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>EKITI</strong><p>New Case: <strong>0</strong><p>Total Cases: <strong>12</strong></p><p>New Recoveries: <strong>2</strong></p><p>Total Recoveries: <strong>4</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>1</strong></p></p><p>Active: <strong>7</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.680004434,5.890427265 ]
+    },
+    "properties": {
+    "no":377,
+    "state":"Delta",
+    "cases":null,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>DELTA</strong><p>New Cases: <strong>0</strong><p>Total Cases: <strong>17</strong></p><p>New Recoveries: <strong>1</strong></p><p>Total Recoveries: <strong>3</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>3</strong></p></p><p>Active: <strong>11</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.549995889,8.490010192 ]
+    },
+    "properties": {
+    "no":378,
+    "state":"Kwara",
+    "cases":null,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>KWARA</strong><p>New Cases: <strong>0</strong><p>Total Cases: <strong>24</strong></p><p>New Recoveries: <strong>1</strong></p><p>Total Recoveries: <strong>9</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>15</strong></p>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.469939737,10.4003587 ]
+    },
+    "properties": {
+    "no":379,
+    "state":"Niger",
+    "cases":null,
+    "time":1588896000,
+    "date":"5/8/2020",
+    "days":72,
+    "daily total":null,
+    "description":"<strong>NIGER</strong><p>New Cases: <strong>0</strong><p>Total Cases: <strong>6</strong></p><p>New Recoveries: <strong>1</strong></p><p>Total Recoveries: <strong>2</strong></p><p>New Deaths: <strong>0</strong></p><p>Total Deaths: <strong>0</strong></p></p><p>Active: <strong>4</strong></p>"
+    }
   }
 ]
 }
