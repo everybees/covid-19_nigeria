@@ -6,47 +6,47 @@
             {
                 "_id": "5e79ddc9fb72591c54abd0f1",
                 "name": "Total Cases",
-                "cases": 19147
+                "cases": 20244
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f1",
                 "name": "Total Recovered",
-                "cases": 6581
+                "cases": 6879
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f1",
                 "name": "Total Deaths",
-                "cases": 487
+                "cases": 518
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f1",
                 "name": "World Cases",
-                "cases": 8787036
+                "cases": 9051579
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f1",
                 "name": "World Recovered",
-                "cases": 4647155
+                "cases": 4841948
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f1",
                 "name": "World Deaths",
-                "cases": 463157
+                "cases": 470804
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0ef",
                 "name": "Abia",
-                "cases": 221
+                "cases": 222
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f0",
                 "name": "Abuja Federal Capital Territor",
-                "cases": 1489
+                "cases": 1567
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f1",
                 "name": "Adamawa",
-                "cases": 42
+                "cases": 45
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f2",
@@ -61,22 +61,22 @@
             {
                 "_id": "5e79ddc9fb72591c54abd0f4",
                 "name": "Bauchi",
-                "cases": 447
+                "cases": 464
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f5",
                 "name": "Bayelsa",
-                "cases": 128
+                "cases": 169
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f6",
                 "name": "Benue",
-                "cases": 39
+                "cases": 44
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f7",
                 "name": "Borno",
-                "cases": 465
+                "cases": 468
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0f8",
@@ -86,7 +86,7 @@
             {
                 "_id": "5e79ddc9fb72591c54abd0f9",
                 "name": "Delta",
-                "cases": 418
+                "cases": 501
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0fa",
@@ -96,17 +96,17 @@
             {
                 "_id": "5e79ddc9fb72591c54abd0fb",
                 "name": "Edo",
-                "cases": 748
+                "cases": 784
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0fc",
                 "name": "Ekiti",
-                "cases": 32
+                "cases": 35
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0fd",
                 "name": "Enugu",
-                "cases": 126
+                "cases": 144
             },
             {
                 "_id": "5e79ddc9fb72591c54abd0fe",
@@ -116,7 +116,7 @@
             {
                 "_id": "5e79ddc9fb72591c54abd0ff",
                 "name": "Imo",
-                "cases": 205
+                "cases": 234
             },
             {
                 "_id": "5e79ddc9fb72591c54abd100",
@@ -126,12 +126,12 @@
             {
                 "_id": "5e79ddc9fb72591c54abd101",
                 "name": "Kaduna",
-                "cases": 527
+                "cases": 580
             },
             {
                 "_id": "5e79ddc9fb72591c54abd102",
                 "name": "Kano",
-                "cases": 1182
+                "cases": 1190
             },
             {
                 "_id": "5e79ddc9fb72591c54abd103",
@@ -156,12 +156,12 @@
             {
                 "_id": "5e79ddc9fb72591c54abd107",
                 "name": "Lagos",
-                "cases": 8177
+                "cases": 8576
             },
             {
                 "_id": "5e79ddc9fb72591c54abd108",
                 "name": "Nassarawa",
-                "cases": 181
+                "cases": 184
             },
             {
                 "_id": "5e79ddc9fb72591c54abd109",
@@ -171,32 +171,32 @@
             {
                 "_id": "5e79ddc9fb72591c54abd10a",
                 "name": "Ogun",
-                "cases": 623
+                "cases": 646
             },
             {
                 "_id": "5e79ddc9fb72591c54abd10b",
                 "name": "Ondo",
-                "cases": 128
+                "cases": 134
             },
             {
                 "_id": "5e79ddc9fb72591c54abd10c",
                 "name": "Osun",
-                "cases": 54
+                "cases": 60
             },
             {
                 "_id": "5e79ddc9fb72591c54abd10d",
                 "name": "Oyo",
-                "cases": 809
+                "cases": 912
             },
             {
                 "_id": "5e79ddc9fb72591c54abd10e",
                 "name": "Plateau",
-                "cases": 207
+                "cases": 251
             },
             {
                 "_id": "5e79ddc9fb72591c54abd10f",
                 "name": "Rivers",
-                "cases": 739
+                "cases": 874
             },
             {
                 "_id": "5e79ddc9fb72591c54abd110",
